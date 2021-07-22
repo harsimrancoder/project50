@@ -1,0 +1,61 @@
+<div class = "header">
+      <div class="menu">
+      <div><a href="#"> </a></div>
+      <div >Origami Designs</div> 
+      <div><a href="about.html">About Us</a></div>
+    
+      </div>  
+
+      </div>
+   
+      <div class ="bodyimg">
+      <img src="nain2.jpg"height="600px" width="100%">
+      <p>
+      Origami Instructions and Diagrams 
+      </p>
+      <h3><br>
+      step by step diargrans are probaly the most probably the most popular and easiest to follow way to show how to fold things out of paper.
+      Trying to find good origami instruction on the internet can be a lot of though. To help your search we've picturetogether the largest database of free origami diagrams anywhere on the Internet.
+      </h3>
+      </div>
+      <div class="grid">
+      <div class="origami">
+      <centr>
+      <a href="http://origami.me/camel/"><img src="camel.png" width="200px" height="200px"></a>
+      <h3>camel</h3>
+      </center>
+      <p>
+      <ol>
+      <li>camel's ears are furry</li>
+      <li>Changing skin color is an important part of communication among chaeleons</li>
+      <li>most chameleons have a prehensile tail that they use to wrap around tree branches</li>
+      </ul>
+      </p>
+      </div>
+      .grid img{
+          border:2px solid :blank;
+          border-radius : 50px;
+      }
+    
+      .origami{
+          border-radius: 20px;
+          background-color: white;
+
+          width: 20px;
+        font-family: fantasy;
+      }
+      .meno{
+          display: flex;
+          justify-content: space-between;
+          background-color: black;
+          font-size: 20px;
+          font-family: sans-serif;
+          font-weight: 400;
+          color: white;
+      }
+   body{
+       background-color: whitesmoke;
+   }
+
+
+
